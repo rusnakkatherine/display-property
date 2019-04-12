@@ -26,5 +26,11 @@
     display: block;
     background-color: blue;
     padding: 10px;
-    
+
+}
+.display-none{
+    display: none;
+}
+.visibility-hidden{
+    visibility: hidden;
 }
